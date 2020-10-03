@@ -4,7 +4,7 @@
     width: 98.44%;
     height: 100px;
     position: fixed;
-    z-index: 1;
+    z-index: 5;
     top : 0.1%;
     border: 4px solid black;
     margin-right:0% !important;
@@ -12,7 +12,7 @@
 .appName{
     position: relative;
     top: -10%;
-    color: black;
+    color: brown;
     display: block;
     text-align: center;
 }
